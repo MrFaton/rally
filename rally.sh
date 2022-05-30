@@ -1,0 +1,1 @@
+java -jar ~/env/rally/rally.jar
