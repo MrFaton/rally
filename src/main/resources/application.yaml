@@ -1,1 +1,9 @@
 spring.main.web-application-type: NONE
+
+rally:
+  url: https://rally1.rallydev.com
+  apiKey: ${RALLY_API_KEY}
+  appName: UserStory iteration / pip iteration updater
+  team:
+    projectUrl: ${rally.url}/slm/webservice/v2.0/project/276496969108
+    pi: 26
