@@ -6,4 +6,4 @@ rally:
   appName: UserStory iteration / pip iteration updater
   team:
     projectUrl: ${rally.url}/slm/webservice/v2.0/project/661377949685
-    pi: 28
+    pi: 29
